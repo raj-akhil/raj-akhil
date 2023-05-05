@@ -1,16 +1,13 @@
 ### Hi there 👋
-
-<!--
-**raj-akhil/raj-akhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Akhil Raj Rajan currently a student at Newcastle university   
+This is my Github profile and all the repository are in private for security reason.
+The project that I have done in this profile are:
+1. cycleGAN 
+2. Cloud computing project
+3. Machine Learning 
+   -FARS
+   - Sentimental Analysis
+4.Bird classification
+  -Inception
+5. Text prediction
+  -LSTM
