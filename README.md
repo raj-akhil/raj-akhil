@@ -4,7 +4,7 @@ I'm Akhil Raj Rajan, a student at Newcastle University, and this is my GitHub pr
 1.CycleGAN   
 2.Cloud Computing Project  
 3.Machine Learning   
-   *FARS    
+ -FARS    
     Sentiment Analysis   
    -Bird Classification    
    -Inception  
